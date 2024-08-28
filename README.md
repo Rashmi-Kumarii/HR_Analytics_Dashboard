@@ -15,15 +15,19 @@ This will help the organization to improve their employee performance and employ
   of missing values, removing duplicate values  and creating calculated columns.
 
 •	Interactive Visualization:- 
+
 Implementing of various visualisation  like bar charts, pie charts, slicers and its formatting.
 
 •	Predictive Analysis:-
+
   Utilising predictive features to forecast attrition as well as advanced DAX functions for complex  calculations
   
 •	User Friendly  Interface
+
   Focused on User friendly interface for HR professionals.
 
-•	Skills
+•	Skills:-
+
    Basic Excel knowledge to understand DAX queries
    Power BI knowledge for creating interactive dashboard
 

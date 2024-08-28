@@ -1,12 +1,13 @@
 # HR_Analytics_Dashboard
 # OBJECTIVE:
-This will help the organization to improve employee performance and employee retention (to reduce attrition) by creating the HR Analytics Dashboard .
+This will help the organization to improve their employee performance and employee retention (to reduce attrition) by creating HR Analytics Dashboard .
 
 # KEY FEATURE OF THE DASHBOARD
 Key Insights:
-1.	Employee with educational background in life science have the highest attrition rates.
-2.	Age group (26-35 yrs) have the most significant attrition rate.
-3.	Total no. of employees- 1470
+1.	Total no. of employees- 1470.
+2.	Employee with educational background in life science have the highest attrition rates.
+3.	Age group (26-35 yrs) have the most significant attrition rate.
+4.	Employee with the avg salary of 6.4k are mainly the ones who are leaving the organisation.
 
 # Project Highlights
 •	Data Import & Transformation:-
